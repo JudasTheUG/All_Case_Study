@@ -2,6 +2,7 @@
 
 ## Prerequisites
 
+- Create a file named .env.development and add line → CHOSEN_BROWSER=chrome (for firefox check set up 2.b)
 - Python 3.10+
 - Google Chrome
 - ChromeDriver/GeckoDriver (Explained in Detail on Step 2 of ## Set Up)
